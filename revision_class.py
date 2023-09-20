@@ -50,7 +50,7 @@ When to use:
 
 # a = 12  # haercoded
 
-# b = input("Please enter value: ") # dynamic
+# b = input("tatti : ") # dynamic
 
 # print("Value is: ",b)
 
